@@ -160,7 +160,7 @@ Desventajas:
 * No permite duplicados, lo que puede ser una limitación.
 * Puede consumir más memoria si se usa hashing.
 
-8. Diccionario (Map)
+## 8. Diccionario (Map)
 Definición:
 Un diccionario es una estructura que almacena pares clave-valor, donde cada clave es única y se asocia a un valor. Es muy útil para búsquedas rápidas.
 
