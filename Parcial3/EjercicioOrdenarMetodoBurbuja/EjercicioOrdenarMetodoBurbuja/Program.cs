@@ -58,7 +58,7 @@ namespace BurbujaAscendente
             } while (opcion != 3);
         }
 
-        // MÉTODO SEGÚN TU DIAGRAMA
+        // MÉTODO ORDENAR
         static void OrdenamientoBurbujaAscendente(int[] Arreglo)
         {
             int i = 0, j = 0, Temporal = 0;
@@ -78,7 +78,7 @@ namespace BurbujaAscendente
             }
         }
 
-        // MÉTODO PARA MOSTRAR
+        // MÉTODO MOSTRAR
         static void MostrarArreglo(int[] arreglo)
         {
             Console.WriteLine("Contenido del arreglo:");
